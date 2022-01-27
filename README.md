@@ -5,3 +5,4 @@ The interval between pressing the shity key is 1 second. To crawl again a break 
 
 ## Compatibility with GSit [6.0.4.1]. Bukkit plugin (api 1.16).
 
+[Photo of crawling in minecraft](https://prnt.sc/26k5khq)
