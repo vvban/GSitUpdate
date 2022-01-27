@@ -1,0 +1,9 @@
+name: GSitUpdate
+version: 1.0.0
+api-version: 1.16
+depend: [GSit]
+softdepend: [GSit]
+description: Double shift to start crawling.
+authors: [VasylykCraft, BaNNanGuy]
+main: com.bannanguy.vasylykcraft.Main.GSitUpdate
+   
